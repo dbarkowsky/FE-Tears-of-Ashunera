@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dbarkowsky.github.io",
+    baseUrl: "dbarkowsky.github.io/FE-Tears-of-Ashunera/",
     ignorePatterns: [".obsidian", "dm-only"],
     defaultDateType: "created",
     generateSocialImages: false,
