@@ -42,7 +42,7 @@ You use your Wisdom whenever a spell refers to your spellcasting ability. In add
 You adopt a particular style of archery techniques as your specialty. Depending on the type of training you focus on, choose one of the following styles to learn:
 ### Twined Archery
 You learn to knock multiple arrows with a single draw. On your first ranged weapon attack each turn, you may target two creatures that is within 5 feet of each other instead of just one creature. Roll your attack against each creature separately.
-## Hurtful Archery
+### Hurtful Archery
 You learn to concentrate on targeting a creature's exposed wounds with your arrows.
 When you hit a creature with a ranged weapon attack, it takes extra damage equal to your proficiency bonus if it is missing any of its hit points.
 ### Slaying Archery
