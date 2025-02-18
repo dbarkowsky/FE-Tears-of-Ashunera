@@ -58,48 +58,9 @@ They may only gain the Features relative to their choice of mount.
 >At the end of a fall, a creature takes 1d6 bludgeoning damage for every 10 feet it fell, to a maximum of 20d6. The creature lands prone, unless it avoids taking damage from the fall.
 >PHB, pg. 183
 
+![[Young Pegasus.png]]
 
-```statblock
-name: Young Pegasus
-type: Large Celestial
-ac: 15 (Barding)
-hp: 10 + 4 per rider's level
-speed: 50 ft., flying 90 ft.
-stats: [13,16,12,6,14,12]
-senses: Passive Perception 15
-saves:
-  - dexterity: 6
-  - wisdom: 5
-damage_vulnerabilities: Piercing, Force
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d6 + 1) bludgeoning damage."
-dice: false
-```
-
-```statblock
-name: Young Wyvern
-type: Large Dragon
-ac: 16 (Barding)
-hp: 10 + 5 per rider's level
-speed: 35 ft., flying 60 ft.
-stats: [15,13,14,3,11,7]
-senses: Passive Perception 15
-saves:
-  - strength: 6
-  - constitution: 5
-damage_vulnerabilities: Force, Lightning
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Bite
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
-dice: false
-```
+![[Young Wyvern.png]]
 
 ## Young Pegasus
 Having shown a natural affinity with mounted aerial combat, you have been given a Young Pegasus as your companion. Taking care of it is your responsibility and duty. Should your Young Pegasus die, you will need to spend 1500 gp to purchase and outfit a replacement.
@@ -139,3 +100,5 @@ Your mount has learned that heights can be just as deadly as a bite. While flyin
 A grappled opponent may be dropped immediately from that height, or you can continue to grapple the opponent for subsequent turns. While grappled, the opponent can attack the wyvern on its regular turn. The rider cannot attack the grappled opponent in this position.
 For the initial grab, use an attack roll with your mount's Dexterity modifier to hit.
 To maintain the grapple for subsequent turns, use your mount's Strength modifier in a role against the grappled opponent's. 
+
+![[sky_knight_wyvern.webp]]![[sky_knight_pegasus.webp]]

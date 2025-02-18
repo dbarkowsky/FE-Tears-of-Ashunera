@@ -81,3 +81,5 @@ When an fiend, monstrosity or undead fails its saving throw against your Turn th
 When making an attack using unarmed strikes or gauntlets, you may follow up that attack with an offhand gauntlet strike that does half damage. Attack rolls are treated as normal, but the offhand attack does not benefit from your Strength. If you can attack more than once per turn, this ability applies each time.
 ## Aura of Courage
 You have braved the battlefield enough to always radiate an aura of courage. You and friendly creatures within 30 feet of you can’t be frightened while you are conscious. A creature that is already frightened is unaffected by your aura.
+
+![[monk.png]]

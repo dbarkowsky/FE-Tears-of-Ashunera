@@ -44,11 +44,8 @@ You have dedicated your fighting style to a particular weapon. It feels like an 
 ### Axe Zeal
 You swing your weapons with such fervor that weapon attacks score a critical hit on one more roll result. For example, on a 19 or 20 instead of just 20. This effect stacks with other similar effects.
 ### Brawler Zeal
-When you use the Attack action with an unarmed strike or a gauntlet weapon, you can use your
-bonus action to make one more weapon attack using your unarmed strike or a gauntlet weapon.
-
-When you deal damage with an unarmed strike or gauntlet weapon, you may use your reaction to
-make one more weapon attack using your unarmed strike or a gauntlet weapon.
+Add your Strength modifier to offhand unarmed strike or gauntlet weapon damage.
+Also, when you deal damage with an unarmed strike or gauntlet weapon, you may use your reaction to make one more weapon attack using your unarmed strike or a gauntlet weapon.
 ## Extra Attack
 You can attack twice, instead of once, whenever you take the Attack action on your turn.
 ## Ability Score Improvement
@@ -67,3 +64,5 @@ You can draw a weapon that has the thrown property as part of the attack you mak
 When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 ### Unarmed Fighting
 Your unarmed strikes can deal bludgeoning damage equal to 1d4 + your Strength modifier. If you strike with two free hands, the d4 becomes a d6. When you successfully start a grapple, you can deal 1d4 bludgeoning damage to the grappled creature. Until the grapple ends, you can also deal this damage to the creature whenever you hit it with a melee attack.
+
+![[fighter.png]]

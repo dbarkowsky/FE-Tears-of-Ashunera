@@ -15,7 +15,7 @@
 |  8th  |                                          |        +1        |     |     |     | +1  |     |
 |  9th  | Divine Intervention                      |                  |     | +1  |     | +1  | +1  |
 ## Class Gains
-- **Gear**: A [[Weapons#Light Tomes|Lightning]] tome
+- **Gear**: A [[Tomes#Light Tomes#Lightning|Lightning]] tome
 - **Weapon Proficiencies**: Tomes
 - **Tool Proficiencies**: Choose any one Artisan’s tools
 - **Skill Proficiencies**: Choose two from Arcana, History, Nature, Religion, Insight, Animal Handling, Perception, Performance, and Persuasion
@@ -61,3 +61,5 @@ You may also attune to one additional staff.
 You can call on the goddess to intervene on your behalf when your need is great.
 Imploring the goddess's aid requires you to use your action. Describe the assistance you seek, and roll percentile dice. If you roll a number equal to or lower than your level + your Charisma modifier, your deity intervenes. The DM chooses the nature of the intervention, such as the effect of a powerful spell or something more specific to the situation.
 If your deity intervenes, you can’t use this feature again for 7 days. Otherwise, you can use it again after you finish a long rest.
+
+![[priest.png]]

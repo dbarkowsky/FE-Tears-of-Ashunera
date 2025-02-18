@@ -53,3 +53,5 @@ Choose two more of your skill proficiencies to gain expertise with. Your profici
 ## Reliable Talents
 You have refined your chosen skills to the point of perfection, allowing you avoid any unlikely mistakes.
 Whenever you make an ability check that lets you add your proficiency bonus, you can treat a d20 roll of 9 or lower as a 10.
+
+![[rogue.png]]

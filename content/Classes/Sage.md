@@ -15,7 +15,7 @@
 | 19th  |                          |        +1        |      22      |     | +1  |     | +1  |     |
 | 20th  |                          |                  |      25      |     |     | +1  |     | +1  |
 ## Class Gains
-- **Gear**: A 7th-level [[Weapons#Anima Tomes|Anima Tome]]
+- **Gear**: A 7th-level [[Tomes#Anima Tomes|Anima Tome]]
 - **Skill Proficiencies**: Choose one from Investigation, Nature, Animal Handling, Insight, Medicine, Perception and Persuasion
 ## Tome Mastery (2)
 When you use a tome, roll a d4. On a 4, do not expend any tome charges.
@@ -34,3 +34,5 @@ When using tomes, you gain a +1 bonus to your attack and damage rolls.
 Your spells become so powerful that it becomes nearly impossible to resist their effects.
 When you deal damage with a spell, that damage ignores resistances (but not immunities).
 Additionally, when you target a creature with a spell that would deal damage that it is vulnerable to, you gain advantage on that spell's attack roll against that creature and that creature has disadvantage on any saving throws made against the effects of your spell.
+
+![[sage.png]]

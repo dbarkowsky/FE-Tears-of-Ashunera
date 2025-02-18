@@ -51,3 +51,5 @@ You become an expert with using Axes.
 When using Axes, you gain a +1 bonus to your attack rolls. This bonus doubles against creatures wielding lances.
 ## Divine Judgement
 Your divine smite carries the righteousness of the goddess herself. The number of damage dice added by your Divine Smite feature is doubled.
+
+![[war_monk.webp|300]]

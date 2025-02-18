@@ -34,24 +34,7 @@
 ## Courser
 Having shown a natural affinity with horses and mounted combat, you have been given a Courser as your companion. Taking care of it is your responsibility and duty. Should your Courser die, you will need to spend 800 gp to purchase and outfit a replacement.
 
-```statblock
-name: Courser (Horse)
-type: Large Beast
-ac: 15 (Barding)
-hp: 10 + 5 per rider's level
-speed: 60 ft.
-stats: [19,12,13,3,12,7]
-senses: Passive Perception 11
-dice: false
-traits:
-  - name: Trampling Charge
-    desc: If the horse moves at least 20 feet straight towards a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
-```
+![[Courser (Horse).png]]
 ## Skilled Rider
 You have advantage on saving throws made to avoid falling off your mount. If you fall off your mount and descend no more than 10 feet, you can land on your feet if you’re not incapacitated.
 Additionally, mounting or dismounting a creature costs you only 5 feet of movement, rather than half your speed.
@@ -84,4 +67,4 @@ Your shots target the critical vitals on your opponent, making it more difficult
 When you use this ability and your attack hits the opponent, that opponent has disadvantage on attack rolls for the next minute and their speed is reduced to 10 feet.
 You may use this ability a number of times equal to your Wisdom modifier per long rest.
 
-
+![[bow_knight.png]]

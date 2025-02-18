@@ -35,25 +35,7 @@
 > If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 > PHB, pg. 198
 
-
-```statblock
-name: Courser (Horse)
-type: Large Beast
-ac: 15 (Barding)
-hp: 10 + 5 per rider's level
-speed: 60 ft.
-stats: [19,12,13,3,12,7]
-senses: Passive Perception 11
-dice: false
-traits:
-  - name: Trampling Charge
-    desc: If the horse moves at least 20 feet straight towards a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage."
-```
+![[Courser (Horse).png]]
 
 ## Courser
 Having shown a natural affinity with horses and mounted combat, you have been given a Courser as your companion. Taking care of it is your responsibility and duty. Should your Courser die, you will need to spend 800 gp to purchase and outfit a replacement.
@@ -76,3 +58,5 @@ You learn to command and ride your mount expertly, allowing them to take the att
 ## Desperation
 Your bond with your mount allows you to follow each other's attacks effortlessly.
 After your mount hits a creature with a melee weapon attack, you can use your reaction to make a single melee weapon attack against the same creature.
+
+![[cavalier.png]]

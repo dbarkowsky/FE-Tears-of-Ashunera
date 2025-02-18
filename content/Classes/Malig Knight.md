@@ -45,6 +45,7 @@ This class has the option of three different mounts:
 - Dark Pegasus
 - Slender Wyvern
 - Shadow Horse
+
 You may choose any one mount when you enter this class.
 If you have an existing mount, it replaces that mount. It is recommended you select a mount that reflects the growth of your current mount, but it is not required.
 See the bottom of the page for their stat blocks.
@@ -80,9 +81,9 @@ If you have promoted from the [[Sky Knight]] class. See the following sections o
 ### Choosing a Magic Type
 Coming from a class with no magic, you have the option to select a magic type from one of the following options:
 
-- [[Weapons#Dark Tomes|Dark Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
-- [[Weapons#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
-- [[Weapons#Light Tomes|Light Tomes]] and the Cleric spell list. Wisdom is your spellcasting modifier.
+- [[Tomes#Dark Tomes|Dark Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
+- [[Tomes#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
+- [[Tomes#Light Tomes|Light Tomes]] and the Cleric spell list. Wisdom is your spellcasting modifier.
 
 A set number of Tomes can be attuned to at one time, but these attunement slots are separate from those used for other magical items.
 You begin this class with three (3) Tome Attunement slots if you currently have none.
@@ -127,63 +128,9 @@ When making a single-target attack with a tome or spell that inflicts damage, yo
 If the attack on the initial target hits, all creatures within 5 feet take half the damage applied to the initial target.
 You may use this ability a number of times equal to your spellcasting modifier.
 
-```statblock
-name: Shadow Horse
-type: Large Beast
-ac: 16 (Barding)
-dice: false
-hp: 15 + (4 x rider's level)
-speed: 60 ft.
-stats: [16,14,14,5,13,10]
-senses: Passive Perception 11
-saves:
-  - strength: 4
-  - charisma: 3
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-  - name: Graceful Steed
-    desc: This horse can move through non-magical difficult terrain without costing extra movement.
-```
+![[Shadow Horse.png]]
 
-```statblock
-name: Slender Wyvern
-type: Large Dragon
-ac: 16 (Barding)
-hp: 15 + (5 x rider's level)
-speed: 40 ft., flying 65 ft.
-stats: [14,18,14,6,14,6]
-senses: Passive Perception 17
-saves:
-  - dexterity: 6
-  - constitution: 5
-damage_vulnerabilities: Force, Lightning
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Bite
-    desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 2) bludgeoning damage. + (1d6) acid damage"
-dice: false
-```
-```statblock
-name: Dark Pegasus
-type: Large Celestial
-ac: 15 (Barding)
-hp: 15 + (4 x rider's level)
-speed: 50 ft., flying 90 ft.
-stats: [14,17,12,10,14,16]
-senses: Passive Perception 17
-saves:
-  - intelligence: 5
-  - wisdom: 6
-  - charisma: 7
-damage_vulnerabilities: Piercing, Force
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
-dice: false
-```
+![[Slender Wyvern.png]]
+![[Dark Pegasus.png]]
+
+![[dark_flier.webp]]

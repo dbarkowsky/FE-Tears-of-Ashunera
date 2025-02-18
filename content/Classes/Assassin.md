@@ -45,3 +45,5 @@ If you spend at least 10 minutes observing or interacting with another creature 
 Your blades become such lethal weapons that stories of you strikes fear into those who would earn your ire.
 Your attacks against a creature that has no more than half of its hit points left cannot miss.
 Your attacks against a creature that has no more than a quarter of its hit points are automatically considered critical attacks.
+
+![[assassin.png]]

@@ -22,7 +22,7 @@
 - [[Assassin]]
 ## Fletching
 As you've dedicated yourself to the bow, so to have you learned to craft the ammunition required for archery.
-If you have access to a shop where you can purchase the necessary materials, you can attempt to craft any Basic Arrows during a short or long rest. See the [[Weapons#Arrows|Arrows]] page for details.
+If you have access to a shop where you can purchase the necessary materials, you can attempt to craft any Basic Arrows during a short or long rest. See the [[Arrows]] page for details.
 On a failure, none of the arrows are unusable and the materials are wasted.
 ## Spellcasting
 Spending your time traversing and understanding the wilderness, you have learned to use the magical essence of nature to cast spells on the Ranger Spell List. See Spells Rules for the general rules of spellcasting.
@@ -56,4 +56,6 @@ The target creature must succeed on a Wisdom saving throw against your spell sav
 If the spell being cast is of 3rd level or higher, the target creature has advantage on the saving throw.
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
 ## Greater Fletching
-You learn to craft Specialized Arrows for taking down your foes. See the [[Weapons#Arrows|Arrows]] page for more details on each arrow.
+You learn to craft Specialized Arrows for taking down your foes. See the [[Arrows|Arrows]] page for more details on each arrow.
+
+![[archer.png]]

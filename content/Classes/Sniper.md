@@ -43,7 +43,7 @@ defend your own, you learn the following spells:
 You hone your mental fortitude to ward off intruders that would warp your mind or thwart your duties. You gain proficiency in Wisdom saving throws (or Intelligence if you already have this proficiency).
 ## Fletching Mastery 
 You've mastered the art of fletching and always succeed when crafting arrows.
-You also learn how to craft [[Weapons#Arrows|Master Arrows]].
+You also learn how to craft [[Arrows#Master Arrows|Master Arrows]].
 ## Hit +20
 You gain a +4 bonus to attack rolls you make with ranged weapons, and saving throw DCs
 calculated using your Dexterity modifier is increased by 4.
@@ -51,3 +51,5 @@ calculated using your Dexterity modifier is increased by 4.
 Your precision knows no limit, and you focus your energy on making the perfect shot.
 When making an attack roll, you may choose to guarantee a successful hit. When calculating the damage of the roll, add an additional damage die. 
 You may use this ability a number of times equal to your Wisdom modifier per long rest.
+
+![[sniper.png]]

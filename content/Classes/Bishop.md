@@ -15,7 +15,7 @@
 | 19th  |                             |     | +1  |     |     |     |
 | 20th  |                             |     |     | +1  |     |     |
 ## Class Gains
-- **Gear**: A 7th-level [[Weapons#Light Tomes|Light Tome]] and a 7th-level [[Weapons#Staffs|Staff]]
+- **Gear**: A 7th-level [[Tomes#Light Tomes|Light Tome]] and a 7th-level [[Staffs|Staff]]
 - **Skill Proficiencies**:  Choose one from Arcana, History, Investigation, Nature, Religion, Medicine, and Persuasion
 ## Staff Mastery (2)
 Your mastery of magical staffs allow you to attune to 3 additional magic items as long as they are staffs.
@@ -42,3 +42,5 @@ Your understanding of healing magic allows you to recharge the staffs attuned to
 The charges of any staff attuned to you is increased by twice your Intelligence modifier.
 ## Divine Intervention
 When you call on the goddess to intervene on your behalf, you no longer need to roll for your call to be answered.
+
+![[bishop.png]]

@@ -31,11 +31,11 @@ Your use of Combat Arts have culminated in the development of your ultimate fini
 As an action, you can attack a single enemy five times. You cannot use combat arts with these attacks.
 Once you use this feature, you must finish a long rest before you can use it again.
 ## Killer Instinct
-Your sword moves gracefully through the air, always finding the vital points of contact for maximum damage. When your roll an attack roll, treat a 19 as a critical hit as well.
+Your sword moves gracefully through the air, always finding the vital points of contact for maximum damage. When you roll an attack roll, treat a 19 as a critical hit as well.
 This effect stacks with similar effects.
 ## Avoid +15
 Your grace while wielding a sword becomes unmatched. Your ability to dance around the battlefield grants you superior evasion.
-While you are wielding a melee weapon in one hand and no other weapons or shields, your AC is increased by 3. You do not gain this benefit if you are shapeshifted.
+While you are wielding a single sword weapon and no other weapons or shields, your AC is increased by 3. You do not gain this benefit if you are shapeshifted.
 ## Swordmaster Combat Arts
 These are the combat arts you can learn as a Swordmaster.
 ### Astra
@@ -60,3 +60,5 @@ When a creature misses you with a melee attack, you can use your reaction to exp
 When you hit a creature with a melee weapon attack, you can expend one arts die to imbue magic into your strike. Add the expended arts die to the attack's damage roll. Choose between Psychic, Radiant, and Necrotic for the damage type of this attack instead.
 ### Thunderclap
 When you hit a creature with a melee weapon attack, you can expend two arts die to add explosive force to the attack. Add the expended arts dice to the attack's damage roll. The target must make a Strength saving throw with disadvantage. On a failed save, the target is knocked prone.
+
+![[swordmaster.png]]

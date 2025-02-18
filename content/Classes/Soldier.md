@@ -56,3 +56,5 @@ When a creature you can see hits a target other than yourself that is within 5 f
 When a creature within 5 feet of you that you can see makes an attack, you can use your reaction to shove your shield towards them and impose disadvantage on their attack roll. You must be wielding a shield to use this reaction.
 ### Tunnel Fighter
 You excel at defending narrow passages, doorways, and other tight spaces. As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+
+![[soldier.png]]

@@ -14,7 +14,7 @@
 |  8th  |                                                  |        +1        |      7       |     |     |     | +1  |     |
 |  9th  | Hexing Aura                                      |                  |      7       |     | +1  |     | +1  | +1  |
 ## Class Gains
-- **Gear**: A [[Weapons#Dark Tomes|Miasma]] tome
+- **Gear**: A [[Tomes#Dark Tomes#Miasma|Miasma]] tome
 - **Weapon Proficiencies**: Dark Tomes
 - **Tool Proficiencies**: Choose any one Artisan’s tools
 - **Skill Proficiencies**:  Choose one from Stealth, Arcana, Investigation, History, Insight, Animal Handling, Deception, and Intimidation
@@ -101,3 +101,5 @@ actions:
   - name: Putrid Claw
     desc: "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1d4 + (spell level) slashing damage and the creature must succeed on a Constitution saving throw against your spell save DC or be poisoned until the end of its next turn."
 ```
+
+![[dark_mage.png]]

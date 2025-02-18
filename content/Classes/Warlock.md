@@ -15,7 +15,7 @@
 | 19th  |                                       |      19      |     | +1  |     |     |     |
 | 20th  |                                       |      20      |     |     | +1  |     |     |
 ## Class Gains
-- **Gear**: A 7th-level [[Weapons#Dark Tomes|Dark Tome]]
+- **Gear**: A 7th-level [[Tomes#Dark Tomes|Dark Tome]]
 - **Skill Proficiencies**:  Choose one from Stealth, Arcana, Investigation, History, Insight, Animal Handling, Deception, and Intimidation
 ## Death's Command
 You learn the spell Command if you haven't already. This spell cannot be swapped out for a different spell when you gain levels and do not count against your spells known as a Dark Mage. You can cast this spell at a 1st level without expending a spell slot and you are able to affect undead creatures with this spell.
@@ -77,3 +77,4 @@ You learn how to maximize the durability of your Phantom.
 Your phantom has additional hit points equal to half of your own (rounded down). 
 As an action, you can restore hit points to your phantoms equal to 1d10 x (spell level).
 
+![[warlock.png]]

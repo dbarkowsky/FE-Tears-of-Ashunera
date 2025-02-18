@@ -76,3 +76,5 @@ When you make a melee weapon attack roll against a creature, you can expend one 
 When you make a melee weapon attack roll against a creature, you can expend one arts die to make the attack score a critical hit on three more roll results. For example, on a 17, 18, 19, or 20 instead of just 20. If the attack scores a critical hit, add the expended arts die to the attack's damage roll. This effect stacks with other similar effects.
 ### Thunderclap
 When you hit a creature with a melee weapon attack, you can expend two arts die to add explosive force to the attack. Add the expended arts dice to the attack's damage roll. The target must make a Strength saving throw with disadvantage. On a failed save, the target is knocked prone.
+
+![[halberdier.png]]

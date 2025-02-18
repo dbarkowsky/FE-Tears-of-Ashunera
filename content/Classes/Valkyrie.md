@@ -19,34 +19,15 @@
 | 19th  |                            |                  |          15           |     |     | +1  | +1  |     |
 | 20th  |                            |                  |          15           |     |     |     |     | +1  |
 ## Class Gains
-- **Gear**: A 7th-level Tome and a 7th-level staff
+- **Gear**: A 7th-level Tome and a [[Weapons#Swords|Steel Sword]]
 - **Weapon Proficiencies**: Swords
-- **Armour Proficiencies**: Medium Armour
+- **Armour Proficiencies**: Medium Armour, Shields
 - **Skill Proficiencies**: Choose one from Arcana, History, Investigation, Insight, Medicine, Perception, Persuasion
 ## Radiant Steed
 Your pony has grown into a majestic being. 
 Taking care of it is your responsibility and duty. Should your steed die, you will need to spend 1800 gp to purchase and outfit a replacement.
 
-```statblock
-name: Radiant Steed
-type: Large Celestial
-ac: 15 (Barding)
-hp: 15 + 4 per rider's level
-speed: 50 ft.
-stats: [16,14,14,10,16,16]
-senses: Passive Perception 17
-saves:
-  - strength: 5
-  - wisdom: 7
-  - charisma: 8
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
-dice: false
-```
+![[Radiant Steed.png]]
 ## Inspiration
 Your presence on the battlefield inspires all close enough to bask in your divine light.
 Any allied creature within 10 feet of you gains +2 to their attack and damage rolls.
@@ -64,4 +45,9 @@ Your tactical prowess presence boosts the confidence and focus of those around y
 While you are conscious, friendly creatures within 15 feet of you can’t be frightened and their weapon attacks score a critical hit on one more roll result. For example, on a 19 or 20 instead of just 20. This effect stacks with other similar effects.
 ## Beacon of Light (2)
 Your grace is immaculate, your internal light divine. Those undeserving of your light are punished simply for being.
+### If previously a Troubadour
 When you cast Beacon of Light, enemy creatures in the bright light (60-foot radius) take an additional 2d8 of radiant damage at the beginning of your turn. This effect continues for as long as Beacon of Light is active. 
+### If previously a Mage
+When you cast Beacon of Light, enemy creatures in the bright light (60-foot radius) take 4d8 of radiant damage at the beginning of your turn. This effect continues for as long as Beacon of Light is active. No other effects noted in Beacon of Light (see [[Troubadour#Beacon of Light]]) occur.
+
+![[valkyrie.png]]

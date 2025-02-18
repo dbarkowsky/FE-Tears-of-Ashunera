@@ -38,3 +38,5 @@ You can attack three times, instead of twice, whenever you take the Attack actio
 When receiving damage from an opponent that does not bring you to 0 hit points, you may lash out in retaliation using your reaction, turning the force of the opponent's blow against them. Providing that the opponent is in melee range and you are currently holding a melee weapon, make an attack roll and, on a hit, the enemy receives half their original damage in return. You may use this a number of times equal to your proficiency bonus per long rest.
 ## Survivor
 You attain the pinnacle of resilience in battle. At the start of each of your turns, unless you are incapacitated, you gain temporary hit points equal to 10 + three times your Constitution modifier.
+
+![[warrior.png]]

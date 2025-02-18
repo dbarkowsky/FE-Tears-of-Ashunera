@@ -42,3 +42,5 @@ bludgeoning, piercing, and slashing damage.
 ## Pavise
 Your defensive capabilities are blessed by the dragon gods themselves. Whenever you would take any amount of damage from an attack or other effect, you can completely ignore that damage instead.
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
+
+![[general.webp|500]]

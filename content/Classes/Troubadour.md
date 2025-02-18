@@ -15,7 +15,7 @@
 |  8th  |                                           |                  |      7       |     |     |     | +1  |     |
 |  9th  | Beacon of Light                           |        +1        |      7       |     |     |     |     | +1  |
 ## Class Gains
-- **Gear**: Any 1st-level [[Weapons#Anima Tomes|Anima Tome]] or 1st-level [[Weapons#Light Tomes|Light Tome]]
+- **Gear**: Any 1st-level [[Tomes#Anima Tomes|Anima Tome]] or 1st-level [[Tomes#Light Tomes|Light Tome]]
 - **Tool Proficiencies**: Choose any one Artisan’s tools
 - **Skill Proficiencies**:  Animal Handling and one from Arcana, History, Investigation, Nature, Religion, Medicine, and Persuasion
 ## Promotions
@@ -24,21 +24,7 @@
 ## Pony
 You are granted a Pony to ride as your mount. Taking care of it is your responsibility and duty. Should your Pony die, you will need to spend 1200 gp to purchase and outfit a replacement.
 
-```statblock
-name: Pony (Horse)
-type: Large Beast
-ac: 14 (Barding)
-dice: false
-hp: 10 + (4 x rider's level)
-speed: 60 ft.
-stats: [13,13,12,5,11,9]
-senses: Passive Perception 11
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-  - name: Graceful Steed
-    desc: This horse can move through non-magical difficult terrain without costing extra movement.
-```
+![[Pony (Horse).png]]
 
 > [!NOTE] Controlling a Mount
 > You can control a mount only if it has been trained to accept a rider. The initiative of a controlled mount changes to match yours when you mount it. It can act either before or after you.
@@ -59,8 +45,8 @@ You have advantage on saving throws made to avoid falling off your mount. If you
 Additionally, your mount has advantage on saving throws made to avoid falling prone.
 ## Spellcasting
 Your spellcasting may come from one of two schools depending on your previous class.
-If you were a [[Pupil]], you use [[Weapons#Anima Tomes|Anima Tomes]] and the Wizard spell list.
-If you were a [[Cleric]], you use [[Weapons#Light Tomes|Light Tomes]] and the Cleric spell list.
+If you were a [[Pupil]], you use [[Tomes#Anima Tomes|Anima Tomes]] and the Wizard spell list.
+If you were a [[Cleric]], you use [[Tomes#Light Tomes|Light Tomes]] and the Cleric spell list.
 ### Cantrips
 You know two cantrips from your spell list (Wizard/Cleric).
 ### Spells Known (Pupil Origin)
@@ -94,3 +80,5 @@ You can use your action to activate an beacon of sunlight from your staff that l
 until you dismiss it using another action. This ability requires concentration and follows standard concentration rules for spellcasting.
 You emit bright light in a 60-foot radius and dim light 30 feet beyond that. Your enemies in the bright light have disadvantage on saving throws against any spell that deals fire or radiant damage. Additionally, creatures that rely on sight have disadvantage on all attacks against you.
 You may use this ability a number of times equal to your spellcasting modifier.
+
+![[troubadour.png]]

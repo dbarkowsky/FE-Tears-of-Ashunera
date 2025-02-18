@@ -35,7 +35,7 @@
 ## Equipment
 - (a) a component pouch or (b) an arcane focus
 - (a) a scholar’s pack or (b) an explorer’s pack
-- one 1st-level [[Weapons#Anima Tomes|Anima Tome]] (Fire/Thunder/Wind)
+- one 1st-level [[Tomes#Anima Tomes|Anima Tome]] (Fire/Thunder/Wind)
 ## Promotions
 - [[Mage]]
 - [[Dark Mage]]
@@ -64,3 +64,5 @@ You use your Intelligence whenever a tome or spell effect refers to your spellca
 When your character reaches the 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
+![[pupil.png]]

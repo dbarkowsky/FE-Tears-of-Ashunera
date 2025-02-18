@@ -18,29 +18,7 @@
 - **Tool Proficiencies**: None
 - **Skill Proficiencies**: Choose one from Arcana, History, Investigation, Insight, Medicine, Perception, Persuasion
 
-```statblock
-name: Pegasus
-type: Large Celestial
-ac: 17 (Barding)
-hp: 15 + 4 per rider's level
-speed: 50 ft., flying 90 ft.
-stats: [14,18,14,6,16,15]
-senses: Passive Perception 17
-saves:
-  - dexterity: 8
-  - wisdom: 7
-  - charisma: 6
-damage_vulnerabilities: Piercing, Force
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage."
-dice: false
-```
-
-
+![[Pegasus.png]]
 ## Pegasus
 Your pegasus has grown into its full adult form. Taking care of it is your responsibility and duty. Should your pegasus die, you will need to spend 3500 gp to purchase and outfit a replacement.
 ## Warding Blow
@@ -58,3 +36,5 @@ You and friendly creatures within 30 feet of you are immune to disease and poiso
 Your prayers to the goddess allow you to deliver her divine judgment through your lance.
 When you hit a creature with a melee weapon attack on your turn, you can call upon the goddess to sunder the target creature. The target creature must succeed on a Constitution saving throw (DC equal to 12 + your proficiency bonus + your Charisma modifier) or be stunned until the end of your next turn.
 You can use this feature a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
+
+![[pegasus_knight.webp]]

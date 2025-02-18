@@ -37,3 +37,5 @@ Whenever you choose to attack savagely, you have advantage on all Wisdom saving 
 If you roll less than a 10 on any Constitution or Strength ability check or saving throw, your roll becomes a 10 instead.
 ## Wrath
 Your fury knows no bounds, especially when its in retaliation to an attack. Once attacked by an enemy, any attack from you that targets that enemy carries the weight of your wrath. On a critical hit, add two additional damage dice to your damage rolls. 
+
+![[berserker.png]]

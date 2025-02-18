@@ -14,7 +14,7 @@
 |  8th  |                             |        +1        |      7       |     |     |     | +1  |     |
 |  9th  | Flare                       |                  |      7       |     | +1  |     | +1  | +1  |
 ## Class Gains
-- **Gear**: Any 1st-level [[Weapons#Anima Tomes|Anima Tome]]
+- **Gear**: Any 1st-level [[Tomes#Anima Tomes|Anima Tome]]
 - **Tool Proficiencies**: Choose any one Artisan’s tools
 - **Skill Proficiencies**: Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 ## Promotions
@@ -56,3 +56,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ## Flare
 You learn a powerful technique for amplifying your anima magic with light magic. When you cast a spell that requires it's targets to make a saving throw, you can impose disadvantage on each creature's saving throw. For each creature that fails their save, you restore 1d10 hit points.
 Once you use this feature, you must finish a long rest before you can use it again.
+
+![[mage.png]]

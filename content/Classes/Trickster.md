@@ -59,3 +59,5 @@ You create echoes of these opponents in an open space adjacent to them.
 These illusions use their stat block, but they only have half HP, cannot use active abilities, and cannot cast spells. For example, an echo would benefit from passive abilities like Extra Attack but not active abilities like Action Surge.
 Any weapon damage is based on the base damage die of that weapon without any added bonuses. For example, a [[Weapons#Swords|Lancereaver]] would not get a bonus against lance-wielding opponents. It would only deal 1d6 + the echo's Strength modifier.
 This ability may be used once per long rest. 
+
+![[trickster.png]]

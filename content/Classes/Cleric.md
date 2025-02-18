@@ -33,8 +33,8 @@
 - **Saving Throws**: Wisdom, Charisma
 - **Skills**: Choose three from Arcana, History, Nature, Religion, Insight, Medicine, Perception, Performance, and Persuasion
 ## Equipment
-- a [[Weapons#Staffs|Healing Staff]] and a [[Weapons#Staffs|Guide Staff]]
-- (a) [[Weapons#Staffs|Light Staff]] or (b) [[Weapons#Staffs|Slow Staff]]
+- a [[Staffs#Healing Staff|Healing Staff]] and a [[Staffs#Guide Staff|Guide Staff]]
+- (a) [[Staffs#Torch Staff|Torch Staff]] or (b) [[Staffs#Slow Staff|Slow Staff]]
 - (a) a priest’s pack or (b) an explorer’s pack
 ## Promotions
 - [[Monk]]
@@ -62,3 +62,5 @@ You use your Wisdom whenever a staff or spell effect refers to your spellcasting
 When your character reaches the 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
 Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
+![[clerric.png]]

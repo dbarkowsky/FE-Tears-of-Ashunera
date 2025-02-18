@@ -67,3 +67,5 @@ When you hit a creature with a melee weapon attack, you can expend one arts die 
 original target and within your reach and make an attack against it. If the attack hits, add the expended arts die to the attack's damage roll.
 ### Windsweep
 When you make an attack roll with your sword, you can expend one arts die to make a ranged attack as your sword swing ripples through the air. On a hit, add the expended arts die to the attack's damage roll and treat all damage as force damage.
+
+![[myrmidon.png]]

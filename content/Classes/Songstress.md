@@ -12,7 +12,7 @@
 | 15th  | Voice of Peace                         |        d12         |       +2        |     |     | +1  |
 | 18th  | The Goddess's Icon                     |                    |       +1        |     | +1  |     |
 ## Class Gains
-- **Gear**: A [[Weapons#Lances|Steel Lance]] and a [[Weapons#Staffs|Heal Staff]]
+- **Gear**: A [[Weapons#Lances|Steel Lance]] and a [[Staffs#Healing Staff|Healing Staff]]
 - **Weapon Proficiencies**: Lances, Staffs
 - **Tool Proficiencies**: Choose any one tool.
 - **Skill Proficiencies**: Choose any one skill.
@@ -44,3 +44,5 @@ Whenever you use your Bardic Inspiration or Revitalizing Dance feature, creature
 The goddess has noticed your dedication to your art and given you her personal blessings.
 Whenever you fail a dice roll, you may rely upon your blessed luck to instead turn the roll into a success.
 Once you use this feature, you must finish a long rest before you can use it again.
+
+![[songstress.png]]

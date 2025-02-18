@@ -76,3 +76,5 @@ When you make a melee weapon attack roll against a creature, you can expend one 
 If the target slams into a hard surface and this movement is ended prematurely, the target takes additional force damage equal to your expended arts die.
 ### Sunder
 When you make a melee weapon attack roll against a creature, you can expend one arts die to make the attack score a critical hit on three more roll results. For example, on a 17, 18, 19, or 20 instead of just 20. If the attack scores a critical hit, add the expended arts die to the attack's damage roll. This effect stacks with other similar effects.
+
+![[mercenary.png]]

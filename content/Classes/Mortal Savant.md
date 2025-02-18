@@ -48,7 +48,7 @@ If you have promoted from the [[Myrmidon]] class. See the following sections on 
 ### Anima Magic
 Coming from a class with no magic, you have action to the Anima Magic field.
 
-- [[Weapons#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
+- [[Tomes#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
 
 A set number of Tomes can be attuned to at one time, but these attunement slots are separate from those used for other magical items.
 You begin this class with three (3) Tome Attunement slots if you currently have none.
@@ -95,5 +95,4 @@ As an action, use this ability to affect all creatures in a 15 foot flat cone in
 No attack roll is needed. Damage is dealt as if all creatures in the cone were hit.
 All creatures in the cone must make a Constitution saving throw against your spell save DC or be blinded for one minute.
 
-
-
+![[mortal_savant.webp]]

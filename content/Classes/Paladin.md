@@ -31,26 +31,7 @@
 > If your mount is knocked prone, you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall prone in a space within 5 feet it.
 > PHB, pg. 198
 
-
-```statblock
-name: Destrier (Horse)
-type: Large Beast
-ac: 17 (Barding)
-hp: 15 + 5 per rider's level
-speed: 60 ft.
-stats: [21,14,15,3,13,7]
-senses: Passive Perception 11
-dice: false
-traits:
-  - name: Trampling Charge
-    desc: If the horse moves at least 20 feet straight towards a creature and then hits it with a Hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone.
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Hooves
-    desc: "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage."
-```
-
+![[Destrier (Horse).png]]
 ## Destrier
 Your companion has grown into a strong and fearless mount. Taking care of it is your responsibility and duty. Should your Destrier die, you will need to spend 1800 gp to purchase and outfit a replacement.
 ## Weaponfaire
@@ -76,3 +57,5 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 You learn to use holy powers to convert the energy of your strikes into a protective barrier.
 When you hit a creature with a melee weapon attack on your turn, you can change the damage type to Radiant and gain temporary hit points twice the damage dealt.
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
+
+![[paladin.png]]

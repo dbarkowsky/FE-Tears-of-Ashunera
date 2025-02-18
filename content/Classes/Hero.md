@@ -68,3 +68,5 @@ When you hit a creature with a melee weapon attack, you can expend two arts die 
 must make a Strength saving throw with disadvantage. On a failed save, the target is knocked prone.
 ### Vengeance
 When a creature hits you with a melee attack, you can use your reaction to expend one arts die and make a melee weapon attack against the creature. If the attack hits, add the expended arts die to the attack's damage roll.
+
+![[hero.png]]

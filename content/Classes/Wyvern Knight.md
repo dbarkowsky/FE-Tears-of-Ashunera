@@ -17,27 +17,7 @@
 - **Tool Proficiencies**: None
 - **Skill Proficiencies**: Choose one from Arcana, History, Investigation, Insight, Medicine, Perception, Persuasion
 
-```statblock
-name: Wyvern
-type: Large Dragon
-ac: 17 (Barding)
-hp: 15 + 6 per rider's level
-speed: 35 ft., flying 60 ft.
-stats: [18,14,16,3,14,8]
-senses: Passive Perception 15
-saves:
-  - strength: 8
-  - constitution: 7
-damage_vulnerabilities: Force, Lightning
-traits:
-  - name: Bred for War
-    desc: This creature has advantage on death saving throws.
-actions:
-  - name: Bite
-    desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage."
-dice: false
-```
-
+![[Wyvern.png]]
 
 ## Wyvern
 Your wyvern has grown into its full adult form. Taking care of it is your responsibility and duty. Should your wyvern die, you will need to spend 3500 gp to purchase and outfit a replacement.
@@ -57,3 +37,5 @@ When you hit an creature that is your size or smaller with a weapon attack, it m
 ## Seal Defense
 Your strikes are empowered by the dragon gods themselves. When you or your mount hit a creature with a melee weapon attack on your turn, the power of your blow renders the target's reflexes to dust. The target creature suffers a -1 penalty to their AC until the start of your next
 turn. This effect can stack.
+
+![[wyvern_knight.webp]]

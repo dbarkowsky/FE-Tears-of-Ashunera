@@ -62,3 +62,5 @@ The first time each day you target a creature with your Revitalizing Dance featu
 ## Restorative Presence
 Just being in your vicinity gives your allies a revitalizing boost.
 Any allied creature within 5 feet at the start of your turn regains hit points equal to your Charisma modifier + your proficiency.
+
+![[dancer.png]]

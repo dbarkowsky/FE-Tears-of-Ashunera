@@ -99,3 +99,5 @@ You can use your second wind feature twice before need to take a rest.
 Your physique is par to none and can keep you fighting despite grievous wounds. If you drop to 0 hit points and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, you drop to 1 hit point instead.
 
 Each time you use this feature after the first, the DC increases by 5. When you finish a short or long rest, the DC resets to 10.
+
+![[brigand.png]]
