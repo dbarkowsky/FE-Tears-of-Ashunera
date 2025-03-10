@@ -32,7 +32,7 @@ You use your Wisdom modifier when setting the saving throw DC for an Art.
 - Combat Arts Save DC  =  8 + your proficiency bonus + your Wisdom modifier
 ## Triangle Adept
 You become an expert with all sorts of weapons, allowing you to adapt your fighting style to always maintain an advantage over your opponent.
-You gain a +2 bonus to your attack rolls when using a sword against creatures wielding axes, using an axe against creatures wielding lances, or using a lance against creatures wielding swords.
+You gain an additional +2 bonus to your attack rolls when using a sword against creatures wielding axes, using an axe against creatures wielding lances, or using a lance against creatures wielding swords.
 ## Radiant Aether
 Your use of Combat Arts have culminated in the development of your ultimate finishing skill.
 As an action, you can attack a single enemy twice. For these attacks, the target creature's AC is treated as if it was 10, and you restore health equal to the amount of damage dealt. You cannot use combat arts with these attacks.

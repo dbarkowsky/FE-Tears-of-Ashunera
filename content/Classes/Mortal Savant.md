@@ -46,9 +46,7 @@ If you have promoted from the [[Mage]] class, continue to use the spell list and
 
 If you have promoted from the [[Myrmidon]] class. See the following sections on how your spellcasting works and follow the [[#From Myrmidon]] table. 
 ### Anima Magic
-Coming from a class with no magic, you have action to the Anima Magic field.
-
-- [[Tomes#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
+Coming from a class with no magic, you have access to the Anima Magic field, which includes  [[Tomes#Anima Tomes|Anima Tomes]] and the Wizard spell list. Intelligence is your spellcasting modifier.
 
 A set number of Tomes can be attuned to at one time, but these attunement slots are separate from those used for other magical items.
 You begin this class with three (3) Tome Attunement slots if you currently have none.
@@ -87,12 +85,11 @@ When making a saving throw in combat, use your reaction and expend a number of M
 ## Warding Blow
 *Mana Charges: 2*
 You develop a technique for solidifying magic in a shield around your body.
-As a bonus action, expend Mana Charges to add +2 to your AC until the start of your next turn. This does not stack.
+As a bonus action, expend a Mana Charge to add +2 to your AC until the start of your next turn. This does not stack.
 ## Haze Slice
 *Mana Charges: 4*
 You sweep your blade in a horizontal arc. A searing heat envelopes all in front of you, hazing their vision.
 As an action, use this ability to affect all creatures in a 15 foot flat cone in front of you.
-No attack roll is needed. Damage is dealt as if all creatures in the cone were hit.
-All creatures in the cone must make a Constitution saving throw against your spell save DC or be blinded for one minute.
+All creatures in the cone must make a Constitution saving throw against your spell save DC. They take 2d8 fire damage and are blinded for one minute on a failed save. They take half damage on a successful save.
 
 ![[mortal_savant.webp]]

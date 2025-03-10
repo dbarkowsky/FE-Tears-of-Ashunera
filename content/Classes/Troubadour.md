@@ -11,7 +11,7 @@
 |  4th  |                                           |                  |      5       |     | +1  |     |     |     |
 |  5th  | Dampen Elements                           |        +1        |      5       |     |     | +1  |     |     |
 |  6th  | Live to Serve, <br>Staff Mastery          |                  |      6       |     | +1  | +1  |     |     |
-|  7th  | Tomebreaker                               |                  |      6       | +1  |     |     | +1  |     |
+|  7th  | Tome Ward                                 |                  |      6       | +1  |     |     | +1  |     |
 |  8th  |                                           |                  |      7       |     |     |     | +1  |     |
 |  9th  | Beacon of Light                           |        +1        |      7       |     |     |     |     | +1  |
 ## Class Gains

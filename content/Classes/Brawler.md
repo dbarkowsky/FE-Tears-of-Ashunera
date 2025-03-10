@@ -10,7 +10,7 @@
 | 10th  | Brawling Prowess |
 | 11th  | Fistfaire        |
 | 13th  | Extra Attack (2) |
-| 15th  | Tomebreaker      |
+| 15th  | Tome Breaker     |
 | 18th  | Quick Riposte    |
 ## Class Gains
 - **Gear**: [[Weapons#Gauntlets|Steel Gauntlets]]
@@ -25,7 +25,7 @@ You become an expert at fighting with your fists.
 While you are unarmed, using natural melee weapons, or using gauntlets, you gain a +1 bonus to your attack rolls. This bonus doubles against creatures you are grappling.
 ## Extra Attack (2)
 You can attack three times, instead of twice, whenever you take the Attack action on your turn.
-## Tomebreaker
+## Tome Breaker
 For you, the movements of spellcasters are slow and predictable when compared to your punches.
 If an opponent you attack with unarmed strikes or gauntlets is wielding a tome or staff, add +2 to attack and damage rolls. If they are affected by a magical effect that grants additional AC, ignore that and calculate their AC without it.
 ## Quick Riposte

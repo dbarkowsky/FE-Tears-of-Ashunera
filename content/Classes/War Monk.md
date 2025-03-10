@@ -6,26 +6,26 @@
 - Wisdom
 - Constitution
 ## Progression
-| Level | Features               | 3rd | 4th | 5th |
-| :---: | ---------------------- | :-: | :-: | :-: |
-| 10th  | Staffsense, Bowbreaker |     |     |     |
-| 11th  | Oath Style             |     |     |     |
-| 12th  |                        | +1  |     |     |
-| 13th  | Oath Style (2)         |     |     |     |
-| 14th  |                        |     |     | +1  |
-| 15th  | Axefaire               |     |     |     |
-| 16th  |                        |     | +1  |     |
-| 17th  |                        |     |     | +1  |
-| 18th  | Divine Judgement       |     |     |     |
-| 19th  |                        |     |     |     |
-| 20th  |                        |     |     |     |
+| Level | Features                | 3rd | 4th | 5th |
+| :---: | ----------------------- | :-: | :-: | :-: |
+| 10th  | Staffsense, Bow Breaker |     |     |     |
+| 11th  | Oath Style              |     |     |     |
+| 12th  |                         | +1  |     |     |
+| 13th  | Oath Style (2)          |     |     |     |
+| 14th  |                         |     |     | +1  |
+| 15th  | Axefaire                |     |     |     |
+| 16th  |                         |     | +1  |     |
+| 17th  |                         |     |     | +1  |
+| 18th  | Divine Judgement        |     |     |     |
+| 19th  |                         |     |     |     |
+| 20th  |                         |     |     |     |
 ## Class Gains
 - **Gear**: A [[Weapons#Axes|Steel Axe]]
 - **Weapon Proficiencies**: Axes
 - **Skill Proficiencies**: Choose one from Athletics, Acrobatics, Investigation, Nature, Insight, Medicine, Perception, Survival, Intimidation, and Persuasion
 ## Staffsense
 You can expend charges of staffs without needing to wield them in your hands as long as they are attuned to you and within 5 feet of you.
-## Bowbreaker
+## Bow Breaker
 You have resistance to damage from non-magical ranged attacks.
 ## Oath Style
 You adopt a peculiar style of oaths to follow to guide you through your life, through the good and the bad. Depending on your beliefs, choose one of the following oaths to uphold and sets of spells to learn.
